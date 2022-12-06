@@ -39,7 +39,8 @@ public class HelloWorld {
 		// 형상관리= 소프트웨어의 변경사항을 체계적으로 추적하고 통제
 		// (software) configuration management
 		// 쉽게말하면 코드가 어디가 어떻게 달라졋는가
-		// 형상관리시스템 == Git ==> Github사용
+		// 형상관리시스템 == Git
+		// SVN보다 GIT이 더 복잡하지만 체계적, 안정적
 		}
 
 }
